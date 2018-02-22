@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/capaj/chokidar-socket-emitter#readme",
   "dependencies": {
-    "chokidar": "^1.2.0",
+    "chokidar": "^2.0.0",
     "socket.io": "^1.3.7"
   },
   "devDependencies": {
